@@ -193,7 +193,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-U3B4pzjp0oIRyLJfct2sZ4xFG5UkvkSNFp44Dh4WGx8=",
+      "hash": "sha256-e7+L5IVaV1MeoNTCBndurQtPAUgCCaDlgmJfmEKBsF0=",
       "url": "index.html"
     },
     {
@@ -379,22 +379,6 @@
     {
       "hash": "sha256-UlJJRAlTwU9S2GLEJ4eXPb\/xitb5ieR8BJPQv0VCVek=",
       "url": "sample-data\/weather.json.br"
-    },
-    {
-      "hash": "sha256-wX1LB4yuBRFM4fmdSsH6jBlCch9uCHXV9uFTxnz2blQ=",
-      "url": "decode.min.js"
-    },
-    {
-      "hash": "sha256-o1qrUazFD8MPygFt+oWr3C+bSJuECWGcOxNQzps7NEk=",
-      "url": "brotliloader.min.js"
-    },
-    {
-      "hash": "sha256-wX1LB4yuBRFM4fmdSsH6jBlCch9uCHXV9uFTxnz2blQ=",
-      "url": "decode.min.js"
-    },
-    {
-      "hash": "sha256-o1qrUazFD8MPygFt+oWr3C+bSJuECWGcOxNQzps7NEk=",
-      "url": "brotliloader.min.js"
     },
     {
       "hash": "sha256-wX1LB4yuBRFM4fmdSsH6jBlCch9uCHXV9uFTxnz2blQ=",
